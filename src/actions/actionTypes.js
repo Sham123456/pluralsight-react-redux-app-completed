@@ -1,1 +1,3 @@
 export const CREATE_COURSE = "CREATE_COURSE";
+
+export const BEGIN_AJAX_CALLS = 'BEGIN_AJAX_CALLS';
